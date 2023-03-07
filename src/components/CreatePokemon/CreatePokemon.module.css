@@ -138,7 +138,14 @@
     }
     .container{
         width: 20rem;
-        padding: 1rem;
+        padding-bottom: 4rem;
+        padding-top: 4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .container input {
+      margin: .05rem;
+      
     }
     .typeButtons{
         width: 20rem;
