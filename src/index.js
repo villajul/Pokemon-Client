@@ -8,7 +8,7 @@ import store from "./store/store";
 import axios from "axios"
 
 // axios.defaults.baseURL = "http://localhost:3001";
-axios.defaults.baseURL = "https://poke-api-0n4u.onrender.com";
+axios.defaults.baseURL = "https://pokeapi-gd5z.onrender.com";
 
 ReactDOM.render(
   
